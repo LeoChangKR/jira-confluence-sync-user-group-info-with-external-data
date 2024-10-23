@@ -1,1 +1,1 @@
-# jira-confluence-sync-user-group-info-with-external-data
+Used these scripts to sync the user-group info from our HR DB
